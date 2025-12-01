@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abeer.profile">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbeerLA.profile">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,9 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:youremail@gmail.com" title="Email"><img width="22" src="images/email.png"> Email</a></code>
-  <code><a href="https://github.com/AbeerLA" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
+  <code><a href="https://www.linkedin.com" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="mailto:youremail@gmail.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"> Email</a></code>
+  <code><a href="https://github.com/AbeerLA" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"> GitHub</a></code>
 </h5>
 
 <br>
@@ -37,14 +37,14 @@
 <h2 align="center">🔥 Skills & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
-  <code><img title="AWS" height="25" src="images/aws.png"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg"></code>
+  <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg"></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg"></code>
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg"></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg"></code>
+  <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg"></code>
+  <code><img title="AWS" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg"></code>
 </p>
 
 <hr>
@@ -75,7 +75,7 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/AbeerLA/MobileFinalProject" title="Mobile App Final Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbeerLA&repo=MobileFinalProject&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/AbeerLA" title="More Projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbeerLA&repo=Python-Games&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AbeerLA/Python-Games" title="Python Games"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbeerLA&repo=Python-Games&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
