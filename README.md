@@ -1,4 +1,6 @@
-<h1 align="center"> Hi, I'm Abeer 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00A8FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Abeer+👋;Front-End+Developer;Software+Engineering+Student" />
+</h1>
 
 <p align="center">
   <b>Front-End Developer | Software Engineering Student | Python Instructor</b>
@@ -20,10 +22,10 @@
 
 ### 🔹 Languages
 <p align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5/e34f26" height="40"/>
+  <img src="https://cdn.simpleicons.org/css3/1572b6" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript/f7df1e" height="40"/>
+  <img src="https://cdn.simpleicons.org/python/3776ab" height="40"/>
 </p>
 
 ### 🔹 Front-End Frameworks & Tools
@@ -42,10 +44,11 @@
 
 ### 🔹 Cloud & DevOps
 <p align="left">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
-  <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/ff9900" height="40"/>
+  <img src="https://cdn.simpleicons.org/git/f05032" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="40"/>
 </p>
+
 
 ---
 
@@ -72,10 +75,13 @@ E-commerce web app built using **React + Tailwind**.
 
 ## 📫 Contact Me
 <p align="left">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="20"/> **Email:** your-email-here  
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="20"/> 
+  <b>Email:</b> abeeralbaqi@gmail.com
   <br>
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="20"/> **LinkedIn:** your-linkedin-here  
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="20"/> 
+  <b>LinkedIn:</b> www.linkedin.com/in/abeerb
 </p>
+
 
 ---
 
