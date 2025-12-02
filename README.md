@@ -1,85 +1,82 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbeerLA.profile">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abeer....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:youremail@gmail.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"> Email</a></code>
-  <code><a href="https://github.com/AbeerLA" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"> GitHub</a></code>
-</h5>
-
-<br>
+<h1 align="center"> Hi, I'm Abeer 👋</h1>
 
 <p align="center">
-  Hi, I'm Abeer — a Software Engineering student, Front-End Developer, and coding instructor.  
-  <br><br>
-  💻 Passionate about Web Development (React) and Python  
-  <br>
-  ☕ Coffee lover (especially black coffee)  
-  <br>
-  🎓 Studying Informatics & Software Engineering  
-  <br>
-  🌱 Currently learning AWS, React, and modern Front-End tools  
-  <br>
-  👩‍🏫 Worked as a freelance Python instructor for 1 year  
-  <br>
-  🧩 I love building clean UI and learning new technologies  
-  <br>
-  💬 Ask me anything!  
+  <b>Front-End Developer | Software Engineering Student | Python Instructor</b>
 </p>
 
-<hr>
+---
 
-<h2 align="center">🔥 Skills & Tools 🔥</h2>
-<br>
+## 🚀 About Me
+- 🎓 Software Engineering student  
+- 💻 Front-End developer (React, HTML, CSS, JS)  
+- 🐍 Python instructor for 1 year  
+- ☁️ Learning AWS  
+- 📱 Currently building mobile & web projects  
+- 🎯 Improving my GitHub profile & building solid portfolio  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages
+<p align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
+</p>
+
+### 🔹 Front-End Frameworks & Tools
+<p align="left">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40"/>
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40"/>
+</p>
+
+### 🔹 Databases & Backend
+<p align="left">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40"/>
+</p>
+
+### 🔹 Cloud & DevOps
+<p align="left">
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
+</p>
+
+---
+
+## 📌 Featured Projects  
+Here are some of the projects I'm working on:
+
+### 🔹 Mobile Final Project  
+A mobile application built using **React Native**, focusing on clean UI and smooth user experience.  
+👉 *More details coming soon…*
+
+### 🔹 Online Shopping Website (Front-End)  
+E-commerce web app built using **React + Tailwind**.  
+👉 Currently in development.
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg"></code>
-  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg"></code>
-  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg"></code>
-  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg"></code>
-  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg"></code>
-  <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg"></code>
-  <code><img title="AWS" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg"></code>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbeerLA&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerLA&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<hr>
+---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-
-<p align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=AbeerLA&theme=react&border=61dafb&hide_border=true" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=AbeerLA&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+## 📫 Contact Me
+<p align="left">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="20"/> **Email:** your-email-here  
+  <br>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="20"/> **LinkedIn:** your-linkedin-here  
 </p>
 
-<br>
+---
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerLA&langs_count=8&layout=compact&theme=react&hide_border=true">
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbeerLA&theme=react-dark&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-<h2 align="center">👩‍💻 Featured Projects 👩‍💻</h2>
-<br>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/AbeerLA/MobileFinalProject" title="Mobile App Final Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbeerLA&repo=MobileFinalProject&theme=react&border_color=61dafb&border_radius=10"></a>
-
-  <a align="right" href="https://github.com/AbeerLA/Python-Games" title="Python Games"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbeerLA&repo=Python-Games&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br><br><br><br><br><br>
-
-<h4 align="center">
-  <a href="https://github.com/AbeerLA?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
